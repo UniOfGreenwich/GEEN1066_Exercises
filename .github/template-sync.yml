@@ -1,8 +1,0 @@
----
-files:
-  - ".gitignore" # include
-  - "README.md"
-  - "themes/*"
-  - "book.toml"
-  - "!src/*" #exclude
-  - "!content/*" #exclude
